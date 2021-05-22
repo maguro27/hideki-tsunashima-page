@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hideki Tsunashima"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://maguro27.github.io/hideki-tsunashima-page/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Hideki Tsunashima"
+description              : &description "Ph.D. Student majoring in Computer Vision"
+url                      : https://maguro27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/hideki-tsunashima-page/" # the subpath of your site, e.g. "/blog"
 repository               : "maguro27/hideki-tsunashima-page"
+github                   : [metadata]
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         :
@@ -83,11 +84,11 @@ author:
   name             : "Hideki Tsunashima"
   avatar           : "profile.png"
   bio              : "Ph.D. Student majoring in Computer Vision"
-  location         : "Tokyo"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.jp/citations?user=ZZvzcpAAAAAJ&hl=ja"
-  email            : "hideki.tsunashima [at] "
+  email            : "tsunashi27 [at] gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
