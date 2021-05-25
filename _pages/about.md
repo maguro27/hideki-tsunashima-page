@@ -22,4 +22,4 @@ Interests
 * Model Compression
 * Virtual Try-on
 * Persistent Homology
-* Developmental Psycology
+* Developmental Psychology
