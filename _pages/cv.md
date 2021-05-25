@@ -161,7 +161,16 @@ I supervised the GANs class and am teaching students in the GANs class.<br>
 <!-- ################################################### -->
 [](This is not elegant way. I'll fix it.)
 # Service, leadership, others
-* cvpaper.challenge hq, generations group leader
-* 網羅的サーベイ4回, acl
-* meta survey 2回
-*
+* ## cvpaper.challenge Head Quarter<br> Generations Group Leader
+cvpaper.challenge aims we make novel research trends by reflecting the current computer vision research domain, such as submitting papers to top tier conferences, surveying papers of computer vision conferences, and so on.<br>
+I attend cvpaper.challenge as an executive.<br>
+Moreover, I lead the Generations group in cvpaper.challenge, which deals generative models.<br>
+[cvpaper.challenge](http://xpaperchallenge.org/cv/)
+
+* ## Comprehensive Survey in cvpaper.challenge
+We conducted the comprehensive surveys of top tier computer vision conferences, such as CVPR, ICCV, and ECCV.<br>
+[Comprehensive Survey Material](http://xpaperchallenge.org/cv/survey/)
+
+* ## Meta Survey in Generations of cvpaper.challenge
+We conducted the surveys as for generative models and I led this project.<br>
+[Disentanglement, I2I, Image Manipulation, Latent Space of GANs](https://www.slideshare.net/cvpaperchallenge/generative-models-233089430)
