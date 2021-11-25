@@ -16,7 +16,7 @@ Interests
 =======
 * Machine Learning
 * Computer Vision
-* Embodied Question Answering
+* Embodied AI
 * Representation Learning
 * Generative Models
 * Model Compression

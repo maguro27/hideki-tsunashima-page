@@ -79,15 +79,17 @@ Computer Vision Research Group
 
 
 ## International Conference
-* **Hideki Tsunashima**, Hirokatsu Kataoka, Junji Yamato, Qiu Chen, and Shigeo Morishima. “Adversarial Knowledge Distillation for a Compact Generator”, In proceedings of 25th International Conference on Pattern Recognition (ICPR), Pages 10636-10643, Online, January 2021. (Poster)
+* Kazuya Nakamura, Shugo Yamaguchi, **Hideki Tsunashima**, Shigeo Morishima. "INVERTIBLE FINGERPRINT REPLACEMENT FOR IMAGE PRIVACY PROTECTION", In proceedings of The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC), Online, Sept 2021. (Oral)
 
-* **Hideki Tsunashima**, Hirokatsu Kataoka, Junji Yamato, Shigeo Morishima and Qiu Chen. "Adversarial Knowledge Distillation Algorithm for a Compact Generator", In proceedings of ISAT-18, O-I-2, Tainan, December 2019. (Oral, **Excellent Oral Paper Presentation Award**)
+* **Hideki Tsunashima**, Hirokatsu Kataoka, Junji Yamato, Qiu Chen, and Shigeo Morishima. “Adversarial Knowledge Distillation for a Compact Generator”, In proceedings of 25th International Conference on Pattern Recognition (ICPR), Pages 10636-10643, Online, Jan 2021. (Poster)
 
-* **Hideki Tsunashima**, Taisei Hoshi and Qiu Chen. "DzGAN: Improved Conditional Generative Adversarial Nets Using Divided z-vector", ACM International Conference on Computing and Big Data (ICCBD), Pages 52-55, Charleston, September 2018. (Oral)
+* **Hideki Tsunashima**, Hirokatsu Kataoka, Junji Yamato, Shigeo Morishima and Qiu Chen. "Adversarial Knowledge Distillation Algorithm for a Compact Generator", In proceedings of ISAT-18, O-I-2, Tainan, Dec 2019. (Oral, **Excellent Oral Paper Presentation Award**)
+
+* **Hideki Tsunashima**, Taisei Hoshi and Qiu Chen. "DzGAN: Improved Conditional Generative Adversarial Nets Using Divided z-vector", ACM International Conference on Computing and Big Data (ICCBD), Pages 52-55, Charleston, Sept 2018. (Oral)
 
 
 ## Domestic Conference
-* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “Lightning-fast Virtual Try-on without Paired Data and Direct Supervision”, MIRU2021, Nagoya, Aug 2021. (Long-oral)
+* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “Lightning-fast Virtual Try-on without Paired Data and Direct Supervision”, The 24th Meeting on Image Recognition and Understanding (MIRU2021), Online, July 2021. (Long-oral, **学生優秀賞 (Student Best Paper Award)**)
 
 * **綱島秀樹**, 邱玥, 片岡裕雄, 森島繁生. “Object-oriented Representation Learningの実世界データ適用に向けた最新手法の性能分析”, Visual Computing 2020, P20, Online, Dec 2020. (Poster)
 
@@ -104,6 +106,8 @@ Computer Vision Research Group
 * 星泰成, 佐藤祥, **綱島秀樹**, 陳キュウ. “敵対的生成ネットワークを用いた顔画像生成手法”, 電子情報通信学会総合大会, D-12-62, Tokyo, Mar 2018.
 
 ## Award
+* The 24th Meeting on Image Recognition and Understanding (MIRU2021), 学生優秀賞 (Student Best Paper Award), July 2021.
+
 * 18th International Symposium on Advanced Technology (ISAT-18), Excellent Oral Paper Presentation Award, Dec 2019.
 
 * WebDB Forum 2019, 最優秀学生ポスター発表賞, Sept 2019.
@@ -119,6 +123,9 @@ Computer Vision Research Group
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+
+* ## Panel Discussion on cvpaper.challenge conference 2021 (CCC2021)
+[cvpaper.challenge conference 2021 (CCC2021)](http://xpaperchallenge.org/cv/ccc/ccc2021/)
 
 * ## Paper introduction of CVPR2020
 I introduced GANs papers of the CVPR2020 as the student representative of AI-SCHOLAR on July 2020.<br>
