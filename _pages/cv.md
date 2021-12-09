@@ -44,6 +44,13 @@ Intelligent Systems Research Institute<br>
 Computer Vision Research Group
 
 <!-- ################################################### -->
+# Grant
+* ## 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム / 次世代研究者挑戦的研究プログラム (W-SPRING: Waseda University Open Innovation Ecosystem Program for Pioneering Research / SPRING: Support for Pioneering Research Initiated by the Next Generation) <br>(October 2021 to March 2022, Japan)
+
+* ## 日本学術振興会特別研究員DC2 (Japan Society for the Promotion of Science) <br> Research Fellowship for Young Scientists <br>(April 2022 to March 2024)
+
+
+<!-- ################################################### -->
 # Skills
 * Computer Vision
   * Deep Generative Models (GANs, VAE)
