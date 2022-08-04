@@ -26,18 +26,21 @@ Dept. of Information and Communications Engineering
 
 <!-- ################################################### -->
 # Work Experience
-* ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant <br>(June 2020 to Present, Japan)
-Artificial Intelligence Research Center (AIRC)<br>
-Computer Vision Research Team
+* ## OMRON SINIC X <br>Internship <br>(May 2022 to Present, Japan)
+Perception Group
 
 * ## Skillup AI <br>Supervisor and Teacher <br>(Dec 2020 to Present, Japan)
-Supervise a class of Generative Adversarial Networks (GANs) and teach a class of GANs.
-
-* ## Babel, Inc. <br>Consultant for iface <br>(Apr 2021 to Present, Japan)
-Advise about the face swapping application (iface) for improving quality.
+Supervise the class of Generative Adversarial Networks (GANs) and teach the class of GANs.
 
 * ## AI-SCHOLOR <br>Writer <br>(Dec 2019 to Present, Japan)
 Write articles as for artificial intelligence, such as Deep Learning, Human Computer Interaction, and so on.
+
+* ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant <br>(June 2020 to May 2022, Japan)
+Artificial Intelligence Research Center (AIRC)<br>
+Computer Vision Research Team
+
+* ## Babel, Inc. <br>Consultant for iface <br>(Apr 2021 to Dec 2021, Japan)
+Advise about the face swapping application (iface) for improving quality.
 
 * ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant <br>(June 2019 to Mar 2020, Japan)
 Intelligent Systems Research Institute<br>
@@ -45,17 +48,18 @@ Computer Vision Research Group
 
 <!-- ################################################### -->
 # Grant
-* ## 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム / 次世代研究者挑戦的研究プログラム (W-SPRING: Waseda University Open Innovation Ecosystem Program for Pioneering Research / SPRING: Support for Pioneering Research Initiated by the Next Generation) <br>(October 2021 to March 2022, Japan)
-
 * ## 日本学術振興会特別研究員DC2 (Japan Society for the Promotion of Science) <br> Research Fellowship for Young Scientists <br>(April 2022 to March 2024)
+
+* ## 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム / 次世代研究者挑戦的研究プログラム (W-SPRING: Waseda University Open Innovation Ecosystem Program for Pioneering Research / SPRING: Support for Pioneering Research Initiated by the Next Generation) <br>(October 2021 to March 2022, Japan)
 
 
 <!-- ################################################### -->
 # Skills
 * Computer Vision
-  * Deep Generative Models (GANs, VAE)
-  * Deep Model Compressions (Distillation)
+  * Deep Generative Models (GANs, VAE, and Diffusion Models)
   * Virtual Try-on (2D-based)
+  * Reinforcement Learning (Offline RL and Online RL)
+  * Deep Model Compressions (Distillation)
   * Object-oriented Representation Learning
 * Programming
   * Python (main language)
@@ -96,6 +100,8 @@ Computer Vision Research Group
 
 
 ## Domestic Conference
+* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “High Fidelity Virtual Try-on with Self-Supervised Appearance Flow Estimation without Paired Data”, The 25th Meeting on Image Recognition and Understanding (MIRU2022), Hyogo, July 2022. (Short-oral, **インタラクティブセッション賞 (Poster Presentation Award)**)
+
 * **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “Lightning-fast Virtual Try-on without Paired Data and Direct Supervision”, The 24th Meeting on Image Recognition and Understanding (MIRU2021), Online, July 2021. (Long-oral, **学生優秀賞 (Student Best Paper Award)**)
 
 * **綱島秀樹**, 邱玥, 片岡裕雄, 森島繁生. “Object-oriented Representation Learningの実世界データ適用に向けた最新手法の性能分析”, Visual Computing 2020, P20, Online, Dec 2020. (Poster)
@@ -113,13 +119,23 @@ Computer Vision Research Group
 * 星泰成, 佐藤祥, **綱島秀樹**, 陳キュウ. “敵対的生成ネットワークを用いた顔画像生成手法”, 電子情報通信学会総合大会, D-12-62, Tokyo, Mar 2018.
 
 ## Award
+* The 25th Meeting on Image Recognition and Understanding (MIRU2022), インタラクティブセッション賞 (Poster Presentation Award), July 2022.
+
+* The 25th Meeting on Image Recognition and Understanding (MIRU2022), MIRU論文評価貢献賞 (Outstanding Reviewer Award), July 2022.
+
 * The 24th Meeting on Image Recognition and Understanding (MIRU2021), 学生優秀賞 (Student Best Paper Award), July 2021.
 
 * 18th International Symposium on Advanced Technology (ISAT-18), Excellent Oral Paper Presentation Award, Dec 2019.
 
-* WebDB Forum 2019, 最優秀学生ポスター発表賞, Sept 2019.
+* WebDB Forum 2019, 最優秀学生ポスター発表賞 (Student Best Poster Presentation Award), Sept 2019.
 
-* **綱島秀樹**, 中間康文, 枇々木裕太, “2019年度 Fintech Data Championship”, 特別賞, Mar 2019.
+* **綱島秀樹**, 中間康文, 枇々木裕太, “2019年度 Fintech Data Championship”, 特別賞 (Special Award), Mar 2019.
+
+
+# Review
+* The 25th Meeting on Image Recognition and Understanding (MIRU2022), **MIRU論文評価貢献賞 (Outstanding Reviewer Award)**
+
+* Thirty-ninth International Conference on Machine Learning (ICML2022)
 
 
 <!-- ################################################### -->
@@ -130,6 +146,10 @@ Computer Vision Research Group
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+
+* ## Paper introduction of StyleNeRF
+[生成モデル縛り論文読み会](https://kantocv.connpass.com/event/243586/)<br>
+[Presentation Material](https://speakerdeck.com/maguro27/di-9hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-stylenerf-a-style-based-3d-aware-generator-for-high-resolution-image-synthesis-fa-biao-zi-liao)
 
 * ## Panel Discussion on cvpaper.challenge conference 2021 (CCC2021)
 [cvpaper.challenge conference 2021 (CCC2021)](http://xpaperchallenge.org/cv/ccc/ccc2021/)
@@ -168,8 +188,7 @@ I introduced a GANs paper of the CVPR2019 in AIST on Aug 2019.<br>
 
 * ## Generative Adversarial Networks Class
 I supervised the GANs class and am teaching students in the GANs class.<br>
-[Skillup AI GANs class](https://www.skillupai.com/gan/)<br>
-1st class: Mar 2021
+[Skillup AI GANs class](https://www.skillupai.com/gan/)
 
 
 <!-- ################################################### -->
@@ -182,7 +201,7 @@ Moreover, I lead the Generations group in cvpaper.challenge, which deals generat
 [cvpaper.challenge](http://xpaperchallenge.org/cv/)
 
 * ## Comprehensive Survey in cvpaper.challenge
-We conducted the comprehensive surveys of top tier computer vision conferences, such as CVPR, ICCV, and ECCV.<br>
+We conducted the comprehensive surveys of top tier computer vision conferences, such as CVPR, ICCV, and ECCV every year.<br>
 [Comprehensive Survey Material](http://xpaperchallenge.org/cv/survey/)
 
 * ## Meta Survey in Generations of cvpaper.challenge

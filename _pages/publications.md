@@ -39,6 +39,8 @@ International Conference
 
 Domestic Conference
 ======
+* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “High Fidelity Virtual Try-on with Self-Supervised Appearance Flow Estimation without Paired Data”, The 25th Meeting on Image Recognition and Understanding (MIRU2022), Hyogo, July 2022. (Short-oral, **インタラクティブセッション賞 (Poster Presentation Award)**)
+
 * **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “Lightning-fast Virtual Try-on without Paired Data and Direct Supervision”, The 24th Meeting on Image Recognition and Understanding (MIRU2021), Online, July 2021. (Long-oral, **学生優秀賞 (Student Best Paper Award)**)
 
 * **綱島秀樹**, 邱玥, 片岡裕雄, 森島繁生. “Object-oriented Representation Learningの実世界データ適用に向けた最新手法の性能分析”, Visual Computing 2020, P20, Online, Dec 2020. (Poster)
@@ -58,10 +60,14 @@ Domestic Conference
 
 Award
 ======
+* The 25th Meeting on Image Recognition and Understanding (MIRU2022), インタラクティブセッション賞 (Poster Presentation Award), July 2022.
+
+* The 25th Meeting on Image Recognition and Understanding (MIRU2022), MIRU論文評価貢献賞 (Outstanding Reviewer Award), July 2022.
+
 * The 24th Meeting on Image Recognition and Understanding (MIRU2021), 学生優秀賞 (Student Best Paper Award), July 2021.
 
 * 18th International Symposium on Advanced Technology (ISAT-18), Excellent Oral Paper Presentation Award, Dec 2019.
 
 * WebDB Forum 2019, 最優秀学生ポスター発表賞 (Student Best Poster Presentation Award), Sept 2019.
 
-* **綱島秀樹**, 中間康文, 枇々木裕太, “2019年度 Fintech Data Championship”, 特別賞, Mar 2019.
+* **綱島秀樹**, 中間康文, 枇々木裕太, “2019年度 Fintech Data Championship”, 特別賞 (Special Award), Mar 2019.
