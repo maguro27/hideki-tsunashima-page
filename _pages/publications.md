@@ -21,6 +21,8 @@ author_profile: true
 
 Journal
 ======
+* Kazuya NAKAMURA, Shugo YAMAGUCHI, **Hideki TSUNASHIMA**, Shigeo MORISHIMA. “Invertible Fingerprint Replacement for Image Privacy Protection”, IIEEJ Transactions on Image Electronics and Visual Computing, 10 (1), 66, June 2022.
+
 * **Hideki Tsunashima**, Kosuke Arase, Antony Lam, and Hirokatsu Kataoka. “UVIRT---Unsupervised Virtual Try-on Using Disentangled Clothing and Person Features”, Sensors, 20 (19), 5647, Oct 2020.
 
 * 中村充志, 瀧澤生, 星泰成, **綱島秀樹**, 陳キュウ. “画像の感性を反映させたフォントの自動生成”, 日本感性工学会論文誌, 日本感性工学会, 17巻5号, p.523-529, 2018.
