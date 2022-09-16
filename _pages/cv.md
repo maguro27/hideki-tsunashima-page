@@ -84,6 +84,8 @@ Computer Vision Research Group
 [](This is not elegant way. I'll fix it.)
 # Publications
 ## Journal
+* Kazuya NAKAMURA, Shugo YAMAGUCHI, **Hideki TSUNASHIMA**, Shigeo MORISHIMA. “Invertible Fingerprint Replacement for Image Privacy Protection”, IIEEJ Transactions on Image Electronics and Visual Computing, 10 (1), 66, June 2022.
+
 * **Hideki Tsunashima**, Kosuke Arase, Antony Lam, and Hirokatsu Kataoka. “UVIRT---Unsupervised Virtual Try-on Using Disentangled Clothing and Person Features”, Sensors, 20 (19), 5647, Oct 2020.
 
 * 中村充志, 瀧澤生, 星泰成, **綱島秀樹**, 陳キュウ. “画像の感性を反映させたフォントの自動生成”, 日本感性工学会論文誌, 日本感性工学会, 17巻5号, p.523-529, 2018.
@@ -146,6 +148,9 @@ Computer Vision Research Group
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+* ## Paper introduction of StyleNeRF
+[Talk of the Histry of GANs（【スキルアップAIキャンプ】第79回『 生成モデルはまだまだ進化している！ GAN
+    の研究動向紹介』）](https://lp.skillupai.com/20220907)
 
 * ## Paper introduction of StyleNeRF
 [生成モデル縛り論文読み会](https://kantocv.connpass.com/event/243586/)<br>
