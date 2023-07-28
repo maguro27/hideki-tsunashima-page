@@ -30,6 +30,10 @@ Journal
 
 International Conference
 ======
+* Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, In proceedings of International Conference on Image Processing (ICIP), Kuala Lumpur, Oct 2023.
+
+* Shinei Arakawa, **Hideki Tsunashima**, Daichi Horita, Keitaro Tanaka, and Shigeo Morishima. "Memory Efficient Diffusion Probabilistic Models via Patch-based Generation", In proceedings of CVPR Workshop on Generative Models for Computer Vision (GCV), Vancouver, June 2023. (Oral)
+
 * Kazuya Nakamura, Shugo Yamaguchi, **Hideki Tsunashima**, Shigeo Morishima. "INVERTIBLE FINGERPRINT REPLACEMENT FOR IMAGE PRIVACY PROTECTION", In proceedings of The 7th IIEEJ International Conference on Image Electronics and Visual Computing (IEVC), Online, Sept 2021. (Oral)
 
 * **Hideki Tsunashima**, Hirokatsu Kataoka, Junji Yamato, Qiu Chen, and Shigeo Morishima. “Adversarial Knowledge Distillation for a Compact Generator”, In proceedings of 25th International Conference on Pattern Recognition (ICPR), Pages 10636-10643, Online, Jan 2021. (Poster)
@@ -41,7 +45,19 @@ International Conference
 
 Domestic Conference
 ======
-* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “High Fidelity Virtual Try-on with Self-Supervised Appearance Flow Estimation without Paired Data”, The 25th Meeting on Image Recognition and Understanding (MIRU2022), Hyogo, July 2022. (Short-oral, **インタラクティブセッション賞 (Poster Presentation Award)**)
+* Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, MIRU, Hamamatsu, Jul 2023.  (Short-oral)
+
+* 荒川深映, **綱島秀樹**, 堀田大地, 田中啓太郎, 森島繁生. “パッチ分割による拡散確率モデルのメモリ消費量削減の検討”, MIRU, 浜松, 2023年7月. (Poster)
+
+* 大島遼祐, 品川政太朗, **綱島秀樹**, 森島繁生. “Visual Dialogueにおける人間の応答ミス指摘の検討”, MIRU, 浜松, 2023年7月. (Poster)
+
+* 大島遼祐, 品川政太朗, **綱島秀樹**, 森島繁生. “視覚情報を用いたタスク指向型対話における人間の応答に対する間違い指摘の検討”, NLP, 沖縄, 2023年3月. (Poster)
+
+* 大島遼祐, 品川政太朗, **綱島秀樹**, 森島繁生. “視覚情報に基づくタスク指向型対話における人間の応答に対する間違い指摘の検討”, IPSJ, 東京, 2023年3月. (Oral, **学生奨励賞**)
+
+* 荒川深映, **綱島秀樹**, 堀田大地, 森島繁生. “複数解像度で画像を生成可能な拡散確率モデル”, IPSJ, 東京, 2023年3月. (Oral, **学生奨励賞**)
+
+* **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “High Fidelity Virtual Try-on with Self-Supervised Appearance Flow Estimation without Paired Data”, The 25th Meeting on Image Recognition and Understanding (MIRU2022), Hyogo, July 2022. (Short-oral, **インタラクティブセッション賞 (Outstanding Poster Presentation Award)**)
 
 * **Hideki Tsunashima**, Kosuke Arase, Antony Lam, Seito Kasai, Hirokatsu Kataoka. “Lightning-fast Virtual Try-on without Paired Data and Direct Supervision”, The 24th Meeting on Image Recognition and Understanding (MIRU2021), Online, July 2021. (Long-oral, **学生優秀賞 (Student Best Paper Award)**)
 
@@ -62,11 +78,17 @@ Domestic Conference
 
 Award
 ======
+* IPSJ2023 学生奨励賞 (Student Outstanding Paper Award) Mar 2023. (視覚情報に基づくタスク指向型対話における人間の応答に対する間違い指摘の検討)
+
+* IPSJ2023 学生奨励賞 (Student Outstanding Paper Award) Mar 2023. (複数解像度で画像を生成可能な拡散確率モデル)
+
 * The 25th Meeting on Image Recognition and Understanding (MIRU2022), インタラクティブセッション賞 (Poster Presentation Award), July 2022.
 
 * The 25th Meeting on Image Recognition and Understanding (MIRU2022), MIRU論文評価貢献賞 (Outstanding Reviewer Award), July 2022.
 
 * The 24th Meeting on Image Recognition and Understanding (MIRU2021), 学生優秀賞 (Student Best Paper Award), July 2021.
+
+* 2020年度工学院大学大学表彰 (University Award in Kogakuin University 2020).
 
 * 18th International Symposium on Advanced Technology (ISAT-18), Excellent Oral Paper Presentation Award, Dec 2019.
 
