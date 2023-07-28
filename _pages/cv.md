@@ -26,7 +26,7 @@ Dept. of Information and Communications Engineering
 
 <!-- ################################################### -->
 # Work Experience
-* ## OMRON SINIC X <br>Internship <br>(May 2022 to Present, Japan)
+* ## OMRON SINIC X <br>Internship <br>(May 2022 to Oct 2022, Japan)
 Perception Group
 
 * ## Skillup AI <br>Supervisor and Teacher <br>(Dec 2020 to Present, Japan)
@@ -48,9 +48,13 @@ Computer Vision Research Group
 
 <!-- ################################################### -->
 # Grant
-* ## 日本学術振興会特別研究員DC2 (Japan Society for the Promotion of Science) <br> Research Fellowship for Young Scientists <br>(April 2022 to March 2024)
 
-* ## 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム / 次世代研究者挑戦的研究プログラム (W-SPRING: Waseda University Open Innovation Ecosystem Program for Pioneering Research / SPRING: Support for Pioneering Research Initiated by the Next Generation) <br>(October 2021 to March 2022, Japan)
+* ## キオクシア若手奨励研究 (KIOXIA Young Scientist Research) <br>(Jul 2023 to Mar 2024)
+* ## アーリーバードプログラム (Early Bird Program in Waseda University) <br>(Jun 2023 to Mar 2024)
+
+* ## 日本学術振興会特別研究員DC2 (Japan Society for the Promotion of Science) <br> Research Fellowship for Young Scientists <br>(Apr 2022 to Mar 2024)
+
+* ## 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム / 次世代研究者挑戦的研究プログラム (W-SPRING: Waseda University Open Innovation Ecosystem Program for Pioneering Research / SPRING: Support for Pioneering Research Initiated by the Next Generation) <br>(Oct 2021 to Mar 2022, Japan)
 
 
 <!-- ################################################### -->
@@ -137,9 +141,9 @@ Computer Vision Research Group
 * 星泰成, 佐藤祥, **綱島秀樹**, 陳キュウ. “敵対的生成ネットワークを用いた顔画像生成手法”, 電子情報通信学会総合大会, D-12-62, Tokyo, Mar 2018.
 
 ## Award
-* IPSJ2023 学生奨励賞 (Student Outstanding Paper Award) Mar 2023. (視覚情報に基づくタスク指向型対話における人間の応答に対する間違い指摘の検討)
+* IPSJ2023 学生奨励賞 (Student Scientist Award) Mar 2023. (視覚情報に基づくタスク指向型対話における人間の応答に対する間違い指摘の検討)
 
-* IPSJ2023 学生奨励賞 (Student Outstanding Paper Award) Mar 2023. (複数解像度で画像を生成可能な拡散確率モデル)
+* IPSJ2023 学生奨励賞 (Student Scientist Award) Mar 2023. (複数解像度で画像を生成可能な拡散確率モデル)
 
 * The 25th Meeting on Image Recognition and Understanding (MIRU2022), インタラクティブセッション賞 (Outstanding Poster Presentation Award), July 2022.
 
