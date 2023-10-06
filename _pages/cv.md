@@ -96,6 +96,8 @@ Computer Vision Research Group
 
 
 ## International Conference
+* Ryosuke Oshima, Seitaro Shinagawa, **Hideki Tsunashima**, Qi Feng, and Shigeo Morishima. "Pointing out Human Answer Mistakes in a Goal-Oriented Visual Dialogue", In proceedings of International Conference on Computer Vision Workshop on Vision-and-Language Algorithmic Reasoning (VLAR), Paris, Oct 2023.
+
 * Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, In proceedings of International Conference on Image Processing (ICIP), Kuala Lumpur, Oct 2023.
 
 * Shinei Arakawa, **Hideki Tsunashima**, Daichi Horita, Keitaro Tanaka, and Shigeo Morishima. "Memory Efficient Diffusion Probabilistic Models via Patch-based Generation", In proceedings of CVPR Workshop on Generative Models for Computer Vision (GCV), Vancouver, June 2023. (Oral)
@@ -110,6 +112,8 @@ Computer Vision Research Group
 
 
 ## Domestic Conference
+* 荒川深映, Erik Härkönen, **綱島秀樹**, 堀田大地, 田中啓太郎, 森島繁生. "拡散モデルを用いたパッチ単位の任意スケール画像生成", Visual Computing (VC), 東京, 2023年9月. (Poster, **VCポスター賞**)
+
 * Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, MIRU, Hamamatsu, Jul 2023.  (Short-oral)
 
 * 荒川深映, **綱島秀樹**, 堀田大地, 田中啓太郎, 森島繁生. “パッチ分割による拡散確率モデルのメモリ消費量削減の検討”, MIRU, 浜松, 2023年7月. (Poster)
