@@ -26,6 +26,8 @@ Dept. of Information and Communications Engineering
 
 <!-- ################################################### -->
 # Work Experience
+* ## Exawidzards Inc. <br>Internship <br>(June 2024 to Mar 2025)
+
 * ## OMRON SINIC X <br>Internship <br>(May 2022 to Oct 2022, Japan)
 Perception Group
 
@@ -49,7 +51,10 @@ Computer Vision Research Group
 <!-- ################################################### -->
 # Grant
 
+* ## 覚醒プロジェクト (Kakusei Project) <br>(Jul 2024 to Mar 2025)
+
 * ## キオクシア若手奨励研究 (KIOXIA Young Scientist Research) <br>(Jul 2023 to Mar 2024)
+
 * ## アーリーバードプログラム (Early Bird Program in Waseda University) <br>(Jun 2023 to Mar 2024)
 
 * ## 日本学術振興会特別研究員DC2 (Japan Society for the Promotion of Science) <br> Research Fellowship for Young Scientists <br>(Apr 2022 to Mar 2024)
@@ -62,7 +67,7 @@ Computer Vision Research Group
 * Computer Vision
   * Deep Generative Models (GANs, VAE, and Diffusion Models)
   * Virtual Try-on (2D-based)
-  * Reinforcement Learning (Offline RL and Online RL)
+  * Reinforcement Learning
   * Deep Model Compressions (Distillation)
   * Object-oriented Representation Learning
 * Programming
@@ -82,6 +87,7 @@ Computer Vision Research Group
 * Language
   * Japanese
   * English
+  * Chinese (a little bit)
 
 
 <!-- ################################################### -->
@@ -96,6 +102,8 @@ Computer Vision Research Group
 
 
 ## International Conference
+* Kensuke Tatematsu, **Hideki Tsunashima**, Shigeo Morishima. "Idea: Improving Sample Efficiency in World Models through Semantic Exploration via Expert Demonstration", International Conference on Machine Learning (ICML) Workshop on Aligning Reinforcement Learning Experimentalists and Theorists (ARLET), Vienna, July 2024.
+
 * Ryosuke Oshima, Seitaro Shinagawa, **Hideki Tsunashima**, Qi Feng, and Shigeo Morishima. "Pointing out Human Answer Mistakes in a Goal-Oriented Visual Dialogue", In proceedings of International Conference on Computer Vision Workshop on Vision-and-Language Algorithmic Reasoning (VLAR), Paris, Oct 2023.
 
 * Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, In proceedings of International Conference on Image Processing (ICIP), Kuala Lumpur, Oct 2023.
@@ -112,6 +120,16 @@ Computer Vision Research Group
 
 
 ## Domestic Conference
+* **綱島秀樹**, 朱毅鑫, 森島繁生. "部分観測マルコフ決定過程下における系統的汎化ベンチマークの検討", MIRU, 熊本, 2024年8月. (Poster)
+
+* Shogo Iwakata, Ryosuke Oshima, **Hideki Tsunashima**, Fumiya Matsuzawa, Qiu Yue, Hirokatsu Kataoka, Shigeo Morishima. "A New Benchmark for 3D Visual Grounding using Robotic Viewpoints", MIRU, 熊本, 2024年8月. (Poster)
+
+* Kensuke Tatematsu, **Hideki Tsunashima**, Shigeo Morishima. "World Model SEED: Semantic Exploration via Expert Demonstration for Improving Sample Efficiency", MIRU, 熊本, 2024年8月. (Poster)
+
+* 岩片彰吾, 大島遼祐, **綱島秀樹**, 松澤郁哉, 邱玥, 片岡裕雄, 森島繁生. "ロボットの視点を含んだ3D Visual Grounding", IPSJ, 東京, 2024年3月. (Oral, **学生奨励賞**)
+
+* 立松健輔, **綱島秀樹**, 森島繁生. "オフラインデータを利用した意味的探索による世界モデルのサンプル効率の改善", IPSJ, 東京, 2024年3月. (Oral, **学生奨励賞**)
+
 * 荒川深映, Erik Härkönen, **綱島秀樹**, 堀田大地, 田中啓太郎, 森島繁生. "拡散モデルを用いたパッチ単位の任意スケール画像生成", Visual Computing (VC), 東京, 2023年9月. (Poster, **VCポスター賞**)
 
 * Gido Kato, Yoshihiro Hukuhara, Mariko Isogawa, **Hideki Tsunashima**, Hirokatsu Kataoka, and Shigeo Morishima. “SCAPEGOAT GENERATION FOR PRIVACY PROTECTION FROM DEEPFAKE”, MIRU, Hamamatsu, Jul 2023.  (Short-oral)
@@ -145,6 +163,12 @@ Computer Vision Research Group
 * 星泰成, 佐藤祥, **綱島秀樹**, 陳キュウ. “敵対的生成ネットワークを用いた顔画像生成手法”, 電子情報通信学会総合大会, D-12-62, Tokyo, Mar 2018.
 
 ## Award
+* IPSJ2024 学生奨励賞 (Student Scientist Award) Mar 2023. (ロボットの視点を含んだ3D Visual Grounding)
+
+* IPSJ2024 学生奨励賞 (Student Scientist Award) Mar 2023. (オフラインデータを利用した意味的探索による世界モデルのサンプル効率の改善)
+
+* VC2023 VCポスター賞 (Outstanding Poster Presentation Award) Sep 2023.
+
 * IPSJ2023 学生奨励賞 (Student Scientist Award) Mar 2023. (視覚情報に基づくタスク指向型対話における人間の応答に対する間違い指摘の検討)
 
 * IPSJ2023 学生奨励賞 (Student Scientist Award) Mar 2023. (複数解像度で画像を生成可能な拡散確率モデル)
@@ -165,6 +189,8 @@ Computer Vision Research Group
 
 
 # Review
+* The 27th Meeting on Image Recognition and Understanding (MIRU2024)
+
 * The 26th Meeting on Image Recognition and Understanding (MIRU2023)
 
 * The 25th Meeting on Image Recognition and Understanding (MIRU2022), **MIRU論文評価貢献賞 (Outstanding Reviewer Award)**
@@ -181,9 +207,14 @@ Computer Vision Research Group
   {% endfor %}</ul>
 -->
 
+* ## Intoduction of Systematic Generalization (人間にAIはどのように辿り着けばよいのか？ー 系統的汎化からの第一歩 ー)
+[第22回 Language and Robotics研究会](https://langrobo.connpass.com/event/322661/)
+[Presentation Material](https://speakerdeck.com/maguro27/ren-jian-niaihadonoyounichan-rizhao-kebayoinoka-xi-tong-de-fan-hua-karanodi-bu-at-di-22hui-language-and-roboticsyan-jiu-hui)
+
 * ## Paper introduction of MR-VAE
 [【ICLR2023論文解説】Disentanglementは自由自在！？MR-VAEの紹介【cvpaper.challengeコラボ企画】](https://www.youtube.com/watch?v=2B9ZvL-v0Jg&t=38s7)
-* ## Paper introduction of StyleNeRF
+
+* ## Introducing the history of GANs
 [Talk of the Histry of GANs（【スキルアップAIキャンプ】第79回『 生成モデルはまだまだ進化している！ GAN
     の研究動向紹介』）](https://lp.skillupai.com/20220907)
 

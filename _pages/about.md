@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. student majoring in computer vision in the dept. of Physics and Applied Physics at Waseda University, working on visual commonsense and virtual try-on ;
+I'm a third-year Ph.D. student majoring in computer vision in the dept. of Physics and Applied Physics at Waseda University, working on visual commonsense and systematic generalization;
 now I focus on the vision and language research domain which utilizes embodiment.
 If you want to see more my details, please see the `Publication`, `Talks`, `Teaching`, and `CV` tabs.
 
