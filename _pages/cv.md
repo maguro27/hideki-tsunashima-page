@@ -11,6 +11,12 @@ redirect_from:
 
 <!-- ################################################### -->
 # Education
+* ## Peking University <br>(Aug 2023 to Feb 2024, Beijing)
+Study abroad<br>
+Institute for Artificial Intelligence<br>
+The Cognitive Reasoning (CoRe) Lab
+
+
 * ## Graduate School of Waseda University <br>(Apr 2020 to Present, Japan)
 Faculty of Science and Engineering<br>
 School of Advanced Science and Engineering<br>
