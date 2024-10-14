@@ -32,7 +32,11 @@ Dept. of Information and Communications Engineering
 
 <!-- ################################################### -->
 # Work Experience
-* ## Exawidzards Inc. <br>Internship <br>(June 2024 to Mar 2025)
+* ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant (Kakusei Project) <br>(Jul 2024 to Mar 2025, Japan)
+Artificial Intelligence Research Center (AIRC)<br>
+Social Intelligence Research Team (SOIRT)<br>
+
+* ## Exawidzards Inc. <br>Internship <br>(June 2024 to Present)
 
 * ## OMRON SINIC X <br>Internship <br>(May 2022 to Oct 2022, Japan)
 Perception Group
@@ -43,7 +47,7 @@ Supervise the class of Generative Adversarial Networks (GANs) and teach the clas
 * ## AI-SCHOLOR <br>Writer <br>(Dec 2019 to Present, Japan)
 Write articles as for artificial intelligence, such as Deep Learning, Human Computer Interaction, and so on.
 
-* ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant <br>(June 2020 to May 2022, Japan)
+* ## National Institute of Advanced Industrial Science and Technology (AIST) <br>Research Assistant <br>(Jun 2020 to May 2022, Japan)
 Artificial Intelligence Research Center (AIRC)<br>
 Computer Vision Research Team
 
